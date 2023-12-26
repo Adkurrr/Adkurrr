@@ -1,6 +1,6 @@
 **Ade Kurniawan**
 
-- 👀 I’m interested in programming language and data analyst
+- 👀 I’m interested in programming language and data analytics
 - 🌱 I’m currently learning Data Science
 - 📷 Instagram : @muhammad_adkr
 
